@@ -1,0 +1,28 @@
+The/a man/men/woman/women bite(s)/like(s) the green dog
+
+NN NNS VB VBZ DT JJ S NP VP AP
+S = NP VP
+NP = DT NP
+NP = AP NP
+AP = DT JJ                                                                                             
+NP = NN null
+VP = VB NP
+VP = VBZ NP
+
+NN = Noun Singular
+NNS = Noun Plural
+VB = Verb
+VBZ = Verb 3rd Perspective (s)
+DT = Determiner
+JJ = Adjective
+S = Sentence
+NP = Noun Phrase
+VP = Verb Phrase
+AP = Adjective Phrase
+
+NN = man, woman, dog
+NNS = men, women
+VB = bite, like
+VBZ = bites, likes
+JJ = green
+DT = the, a

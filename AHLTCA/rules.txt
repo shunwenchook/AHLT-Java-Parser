@@ -1,0 +1,8 @@
+NN NNS VB VBZ DT JJ S NP VP AP
+S NP VP
+NP DT NP
+NP AP NP
+AP DT JJ                                                                                             
+NP NN null
+VP VB NP
+VP VBZ NP

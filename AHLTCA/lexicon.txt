@@ -1,0 +1,6 @@
+NN man woman dog
+NNS men women
+VB bite like
+VBZ bites likes
+JJ green
+DT the a
